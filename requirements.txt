@@ -9,4 +9,4 @@ hachoir
 tgcrypto
 dnspython
 youtube_dl
-pyrogram==2.0
+pyrogram==1.4.0

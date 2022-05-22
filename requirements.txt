@@ -1,0 +1,12 @@
+pytz
+motor
+mega.py
+Pillow
+aiohttp
+pyromod
+moviepy
+hachoir
+tgcrypto
+dnspython
+youtube_dl
+pyrogram==2.0

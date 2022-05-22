@@ -2,7 +2,7 @@ pytz
 motor
 mega.py
 Pillow
-aiohttp
+aiohttp[speedup]
 pyromod
 moviepy
 hachoir
